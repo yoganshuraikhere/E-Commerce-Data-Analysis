@@ -35,18 +35,18 @@ product_translation	Product descriptions in different languages
       Load CSV/Parquet files into PySpark DataFrames.
       Handle missing values and duplicates.
   * Transformations & Business Insights
-      Identify top-selling products based on total orders.
-      Calculate revenues within date ranges.
-      Count total orders by product category.
-      Analyze customer distribution by regions.
-      Find revenue generated annually.
-      Find Most valued Customers and Salesman.
-      Product_Category sales over Time for Product Category informatica_acessorios over 2 months from 2017-05-01 to 2017-07-01.
-      Total Orders by city.
-      Most Reviewed product.
-      Find min and max priced products.
-      Returning Customers to understand Customer loyalty.
-      Show how many orders have been placed by how many customers.
+      1. Identify top-selling products based on total orders.
+      2. Calculate revenues within date ranges.
+      3. Count total orders by product category.
+      4. Analyze customer distribution by regions.
+      5. Find revenue generated annually.
+      6. Find Most valued Customers and Salesman.
+      7. Product_Category sales over Time for Product Category informatica_acessorios over 2 months from 2017-05-01 to 2017-07-01.
+      8. Total Orders by city.
+      9. Most Reviewed product.
+      10. Find min and max priced products.
+      11. Returning Customers to understand Customer loyalty.
+      12. Show how many orders have been placed by how many customers.
       etc.  
   * Error Handling & Logging
       Implemented structured logging for debugging.
